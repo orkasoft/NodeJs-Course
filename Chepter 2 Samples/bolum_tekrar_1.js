@@ -1,3 +1,6 @@
+https://www.yazilimkodlama.com/sql-server-2/sql-calisma-sorulari/
+
+
 //Soru1 Klavyeden girilen 3 sayının ortalamasını alan bir uygulama yazınız
 
 
